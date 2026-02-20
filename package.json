@@ -1,6 +1,6 @@
 {
   "name": "doctalk-design-system",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Doctalk Design System - A React component library based on shadcn/ui",
   "type": "module",
   "main": "./dist/index.cjs",
